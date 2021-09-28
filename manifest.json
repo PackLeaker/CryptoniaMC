@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§6CryptoniaMC TexturePack",
+        "name": "§l§gCryptonia-Pack",
+        "uuid": "0ae8d030-39a0-4f82-8e27-4594ab05875d",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            2
+        ]
+    },
+    "modules": [
+        {
+            "description": "§6Cryptonia-Pack",
+            "type": "resources",
+            "uuid": "28285015-e68b-4c90-83af-a518ea0f7c99",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
